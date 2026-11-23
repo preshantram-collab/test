@@ -1,12 +1,12 @@
 {
- "version": "4.4",
- "file": "AIRWIN-4.4-ota.bin",
- "size": 4536704,
- "sha256": "71df3c5e001988d845ee6bdb1d8185c7ebbc5bb9fb1984a0b0c10efe1cba3681",
+ "version": "4.5",
+ "file": "AIRWIN-4.5-ota.bin",
+ "size": 4540048,
+ "sha256": "b3c3347749d656c9339ffd89739103d01cad0194e616ba70403aa4e907ba602d",
  "date": "2026-11-24",
  "notes": {
-  "nl": "Kaartmotor draait alleen nog op de kaartpagina (luchtruimwaarschuwingen lopen gewoon door)\nVegen naar velden/doorsnede kost ruim 1 MB minder geheugen",
-  "en": "Map engine only runs on the map page (airspace warnings continue)\nSwiping below the map uses over 1 MB less memory",
-  "de": "Kartenmotor nur auf der Kartenseite (Luftraumwarnungen laufen weiter)\nWischen unter die Karte braucht über 1 MB weniger Speicher"
+  "nl": "Luchtruim valt nooit meer (deels) weg van de kaart\nMinder knipperende kaartelementen en labels\nKaartmotor alleen op de kaartpagina",
+  "en": "Airspace never drops (partly) off the map\nLess flickering map elements and labels\nMap engine only on the map page",
+  "de": "Luftraum fällt nie mehr (teilweise) weg\nWeniger flackernde Kartenelemente\nKartenmotor nur auf der Kartenseite"
  }
 }
