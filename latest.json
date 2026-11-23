@@ -1,12 +1,12 @@
 {
- "version": "4.3",
- "file": "AIRWIN-4.3-ota.bin",
- "size": 4536976,
- "sha256": "6f55bf9de51897694a433bb8e35e6654b5cabec122dd5063232c34b4295a80f6",
+ "version": "4.4",
+ "file": "AIRWIN-4.4-ota.bin",
+ "size": 4536704,
+ "sha256": "71df3c5e001988d845ee6bdb1d8185c7ebbc5bb9fb1984a0b0c10efe1cba3681",
  "date": "2026-11-24",
  "notes": {
-  "nl": "Kaart wordt stilgelegd onder de navigatie (meer geheugen, sneller vegen)\nDoorsnede tekent in één keer (geen vastloper meer)\nVelden-lijst: nieuwe stijl en vloeiend scrollen",
-  "en": "Map engine parks below the navigation page\nCross-section draws in one go\nFields list: new style, smooth scrolling",
-  "de": "Kartenmotor pausiert unter der Navigation\nQuerschnitt ohne Hänger\nFelderliste: neuer Stil, flüssiges Scrollen"
+  "nl": "Kaartmotor draait alleen nog op de kaartpagina (luchtruimwaarschuwingen lopen gewoon door)\nVegen naar velden/doorsnede kost ruim 1 MB minder geheugen",
+  "en": "Map engine only runs on the map page (airspace warnings continue)\nSwiping below the map uses over 1 MB less memory",
+  "de": "Kartenmotor nur auf der Kartenseite (Luftraumwarnungen laufen weiter)\nWischen unter die Karte braucht über 1 MB weniger Speicher"
  }
 }
