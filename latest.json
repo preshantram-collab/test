@@ -1,12 +1,12 @@
 {
- "version": "4.5",
- "file": "AIRWIN-4.5-ota.bin",
- "size": 4540048,
- "sha256": "b3c3347749d656c9339ffd89739103d01cad0194e616ba70403aa4e907ba602d",
+ "version": "4.6",
+ "file": "AIRWIN-4.6-ota.bin",
+ "size": 4543920,
+ "sha256": "3c8a15543cac690b363231f5afcd9a620f6f33ecd81125de3a45265094892924",
  "date": "2026-11-24",
  "notes": {
-  "nl": "Luchtruim valt nooit meer (deels) weg van de kaart\nMinder knipperende kaartelementen en labels\nKaartmotor alleen op de kaartpagina",
-  "en": "Airspace never drops (partly) off the map\nLess flickering map elements and labels\nMap engine only on the map page",
-  "de": "Luftraum fällt nie mehr (teilweise) weg\nWeniger flackernde Kartenelemente\nKartenmotor nur auf der Kartenseite"
+  "nl": "Automatisch inzoomen bij rondjes draaien, daarna terug naar je eigen zoom\nKaartbereik hooguit 20 km\nVloeiende positie van jezelf en FLARM-verkeer (geen sprongen per GPS-meting, bochten doorgetrokken)",
+  "en": "Auto zoom when circling, back to your own zoom afterwards\nMap range limited to 20 km\nSmooth own and FLARM positions",
+  "de": "Auto-Zoom beim Kreisen\nKartenbereich max. 20 km\nFlüssige Positionen (eigene und FLARM)"
  }
 }
