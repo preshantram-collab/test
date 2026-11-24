@@ -1,12 +1,12 @@
 {
- "version": "5.0",
- "file": "AIRWIN-5.0-ota.bin",
- "size": 4565168,
- "sha256": "2e2678c4a1196177e5e394b87ce6bc7cdcbe9b30e47d86c7a1cef1a68c00ed70",
+ "version": "5.1",
+ "file": "AIRWIN-5.1-ota.bin",
+ "size": 4568624,
+ "sha256": "ba409d78e6966cefb302948f35071efa8cf61808de8d8826ed9da69f2cf5e527",
  "date": "2026-11-24",
  "notes": {
-  "nl": "Vario-pagina: alleen het onderdeel dat verandert wordt opnieuw getekend (hoogte, getal, wind, status, snelheidsband)\nOranje spreidingsboog laat geen trapjes/restjes meer achter\nSnellere bogen, ringen en panelen; kaartbuffer; crash 4.8 opgelost",
-  "en": "Vario page: only the changed part is redrawn\nNo leftover pixels on the orange spread arc\nFaster arcs/rings/panels; map buffer",
-  "de": "Vario-Seite: nur geänderte Teile neu gezeichnet\nKeine Reste am orangen Bogen\nSchnellere Bögen/Ringe; Kartenpuffer"
+  "nl": "G-meter en andere pagina's blijven niet meer even hangen: buurpagina's worden in kleine stukjes op de achtergrond vastgelegd\nLog meldt voortaan wat een hapering veroorzaakt",
+  "en": "No more brief freezes: neighbour pages are captured in small slices\nLog now reports the cause of any hitch",
+  "de": "Keine kurzen Hänger mehr: Nachbarseiten in kleinen Stücken\nLog meldet Ursache von Hängern"
  }
 }
