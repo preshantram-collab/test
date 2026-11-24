@@ -1,12 +1,12 @@
 {
- "version": "4.7",
- "file": "AIRWIN-4.7-ota.bin",
- "size": 4546928,
- "sha256": "abc314fc18b09059472ad87573181511c30237be89bad4b6dd77ac530adca92f",
+ "version": "4.8",
+ "file": "AIRWIN-4.8-ota.bin",
+ "size": 4560224,
+ "sha256": "790d9937ba2e809378b6bee22f405740ba31b49005d20e6176850f7df0d1a4ba",
  "date": "2026-11-24",
  "notes": {
-  "nl": "Noord boven bij rondjes: de kaart staat stil tijdens het draaien, alleen het toestel draait (vloeiend in en uit)\nAutomatisch inzoomen bij thermiek (standaard 500 m)\nVloeiende positie van jezelf en FLARM-verkeer",
-  "en": "North up while circling: the map stays still, only the glider turns\nAuto zoom in thermals (500 m)\nSmooth own and FLARM positions",
-  "de": "Nord oben beim Kreisen\nAuto-Zoom im Bart (500 m)\nFlüssige Positionen"
+  "nl": "Kaart veel sneller tijdens vliegen en draaien: kaartlijnen worden niet meer elk beeld opnieuw getekend maar uit een eigen kaartbuffer gedraaid\nStilstaand blijft de kaart scherp zoals altijd\nLuchtruim, punten en taak vallen nooit weg door een volle lijnenlijst",
+  "en": "Much faster map while flying and turning (map buffer)\nStill sharp when stationary\nAirspace/waypoints/task never dropped",
+  "de": "Viel schnellere Karte im Flug (Kartenpuffer)\nIm Stand scharf wie immer\nLuftraum/Punkte/Aufgabe nie weggelassen"
  }
 }
