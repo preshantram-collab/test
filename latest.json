@@ -1,12 +1,12 @@
 {
- "version": "4.8",
- "file": "AIRWIN-4.8-ota.bin",
- "size": 4560224,
- "sha256": "790d9937ba2e809378b6bee22f405740ba31b49005d20e6176850f7df0d1a4ba",
+ "version": "4.9",
+ "file": "AIRWIN-4.9-ota.bin",
+ "size": 4564240,
+ "sha256": "2666f8194964fa9f064a3d98f45b45593944d314249cf7f1ea78ed2ffba312a5",
  "date": "2026-11-24",
  "notes": {
-  "nl": "Kaart veel sneller tijdens vliegen en draaien: kaartlijnen worden niet meer elk beeld opnieuw getekend maar uit een eigen kaartbuffer gedraaid\nStilstaand blijft de kaart scherp zoals altijd\nLuchtruim, punten en taak vallen nooit weg door een volle lijnenlijst",
-  "en": "Much faster map while flying and turning (map buffer)\nStill sharp when stationary\nAirspace/waypoints/task never dropped",
-  "de": "Viel schnellere Karte im Flug (Kartenpuffer)\nIm Stand scharf wie immer\nLuftraum/Punkte/Aufgabe nie weggelassen"
+  "nl": "Herstart bij het openen van de kaart (4.8) opgelost\nSnellere bogen, ringen en afgeronde vlakken in de hele interface (vario-schaal, navboxen, lijsten), zonder zichtbaar verschil\nKaartbuffer voor sneller bewegen van de kaart",
+  "en": "Fixed restart when opening the map (4.8)\nFaster arcs, rings and rounded panels across the UI\nMap buffer for faster map motion",
+  "de": "Neustart beim Öffnen der Karte (4.8) behoben\nSchnellere Bögen, Ringe und abgerundete Flächen\nKartenpuffer"
  }
 }
