@@ -1,12 +1,12 @@
 {
- "version": "4.9",
- "file": "AIRWIN-4.9-ota.bin",
- "size": 4564240,
- "sha256": "2666f8194964fa9f064a3d98f45b45593944d314249cf7f1ea78ed2ffba312a5",
+ "version": "5.0",
+ "file": "AIRWIN-5.0-ota.bin",
+ "size": 4565168,
+ "sha256": "2e2678c4a1196177e5e394b87ce6bc7cdcbe9b30e47d86c7a1cef1a68c00ed70",
  "date": "2026-11-24",
  "notes": {
-  "nl": "Herstart bij het openen van de kaart (4.8) opgelost\nSnellere bogen, ringen en afgeronde vlakken in de hele interface (vario-schaal, navboxen, lijsten), zonder zichtbaar verschil\nKaartbuffer voor sneller bewegen van de kaart",
-  "en": "Fixed restart when opening the map (4.8)\nFaster arcs, rings and rounded panels across the UI\nMap buffer for faster map motion",
-  "de": "Neustart beim Öffnen der Karte (4.8) behoben\nSchnellere Bögen, Ringe und abgerundete Flächen\nKartenpuffer"
+  "nl": "Vario-pagina: alleen het onderdeel dat verandert wordt opnieuw getekend (hoogte, getal, wind, status, snelheidsband)\nOranje spreidingsboog laat geen trapjes/restjes meer achter\nSnellere bogen, ringen en panelen; kaartbuffer; crash 4.8 opgelost",
+  "en": "Vario page: only the changed part is redrawn\nNo leftover pixels on the orange spread arc\nFaster arcs/rings/panels; map buffer",
+  "de": "Vario-Seite: nur geänderte Teile neu gezeichnet\nKeine Reste am orangen Bogen\nSchnellere Bögen/Ringe; Kartenpuffer"
  }
 }
